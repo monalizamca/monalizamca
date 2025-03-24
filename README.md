@@ -51,7 +51,7 @@ Me chamo Monaliza Cristina, sou do Rio de Janeiro. Concluí a pós graduação e
 <img
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="140" 
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=monalizamca&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br"
     />
@@ -59,7 +59,7 @@ Me chamo Monaliza Cristina, sou do Rio de Janeiro. Concluí a pós graduação e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="140" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=monalizamca&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
